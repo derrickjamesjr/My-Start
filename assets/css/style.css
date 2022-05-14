@@ -1,0 +1,25 @@
+.header {
+    background-image: url(../images/stars.jpg);
+    background-position: cover;
+    color: #fff;
+    padding: 50px 40px;
+}
+
+.header h1 {
+    margin: 0;
+    display: inline;
+}
+
+.header nav ul li{
+    list-style: none;
+    display: inline;
+    float: right;
+    font-weight: bolder;
+    font-size: larger;
+    margin: 0 30px;
+    color: #000;
+}
+
+.header a {
+    color: #fff;
+}
