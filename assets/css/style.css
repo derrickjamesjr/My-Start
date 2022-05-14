@@ -17,9 +17,19 @@
     font-weight: bolder;
     font-size: larger;
     margin: 0 30px;
-    color: #000;
+    color: aqua;
 }
 
 .header a {
     color: #fff;
+}
+
+h2 {
+    float: left;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+.html {
+    margin: 2px solid rgb(0, 0, 0);
 }
